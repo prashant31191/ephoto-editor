@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ImageEditor.iml" filepath="$PROJECT_DIR$/ImageEditor.iml" />
+      <module fileurl="file://D:\Prashant\Github_Demo\ephoto-editor\ImageEditor.iml" filepath="D:\Prashant\Github_Demo\ephoto-editor\ImageEditor.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Prashant\Github_Demo\ephoto-editor\app\app.iml" filepath="D:\Prashant\Github_Demo\ephoto-editor\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ephoto-editor.iml" filepath="$PROJECT_DIR$/ephoto-editor.iml" />
     </modules>
   </component>
 </project>
